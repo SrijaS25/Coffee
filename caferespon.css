@@ -1,0 +1,122 @@
+@media  screen and (max-width:450px) {
+    *{
+        margin: 0;
+    }
+    .s1-div1{
+        margin-left: 100px;
+    }
+    #s1{
+        background-color: white;
+        display: block;
+        color: black;
+        width: 400px;
+    }
+    ul{
+       /* border: 1px solid; */
+       width: 200px;
+
+    }
+#s2{
+    display: none;
+}
+li{
+color: rgb(206, 117, 2);
+
+}
+a{
+    color:rgb(206, 117, 2); ;
+}
+a:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    opacity: 0.5;
+}
+li:hover{
+    cursor: pointer;
+    text-decoration: underline;
+    opacity: 0.5;
+}
+.res-image1{
+    margin-top: 30px;
+    width: 350px;
+
+}
+#s3-copy{
+    display: none;
+}
+#s4{
+width: 320px;
+height: 500px;
+}
+.s4-h1{
+    margin-top: 5px;
+    font-size: 30px;
+}
+.s4-h3{
+    font-size: 25px;
+    margin-top: 10px;
+}
+.s4-p{
+    line-height: 50px;
+        font-size: 20px;
+}
+.s4-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+    margin-left: 100px;
+    margin-top: -250px;
+}
+.s4-p{
+    display: flex;
+    flex-wrap: wrap;
+}
+.s5-para-div{
+    width: 270px;
+    text-align: start;
+    /* border: 1px solid; */
+    margin-left: -80px;
+}
+.s5-but{
+    margin-left: -5px;
+}
+.card{
+    margin-top: 10px;
+    margin-left: -40px;
+}
+.s7-img{
+    height: 300px;
+}
+.foot-div{
+    width: 350px;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+form{
+    width: 450px;
+    margin-left: -100px;
+
+}
+
+
+fieldset{
+    
+}
+input{
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
